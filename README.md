@@ -13,7 +13,7 @@ Insert JavaScript into the index.html (supplied) that captures and posts data ev
 ```
 {
   "eventType": "copyAndPaste",
-  "websiteUrl": "https://ravelin.com",
+  "websiteUrl": ",
   "sessionId": "123123-123123-123123123",
   "pasted": true,
   "formId": "inputCardNumber"
@@ -21,7 +21,7 @@ Insert JavaScript into the index.html (supplied) that captures and posts data ev
 
 {
   "eventType": "timeTaken",
-  "websiteUrl": "https://ravelin.com",
+  "websiteUrl": "",
   "sessionId": "123123-123123-123123123",
   "time": 72, // seconds
 }
