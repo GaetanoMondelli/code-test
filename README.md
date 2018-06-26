@@ -1,8 +1,4 @@
-Ravelin Code Test
-=================
-
-## Summary
-We need an HTTP server that will accept any POST request (JSON) from muliple clients' websites. Each request forms part of a struct (for that particular visitor) that will be printed to the terminal when the struct is fully complete. 
+HTTP server that will accept any POST request (JSON) from muliple clients' websites. Each request forms part of a struct (for that particular visitor) that will be printed to the terminal when the struct is fully complete. 
 
 For the JS part of the test please feel free to use any libraries that may help you **but please only use the Go standard library for the backend**.
 
